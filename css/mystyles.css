@@ -7877,6 +7877,21 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem; }
 
+html, body {
+  height: 100vh; }
+
+.is-fullheight-100vh {
+  height: 100vh; }
+
+#digo-navbar, #digo-navbar-brand {
+  background-color: #BDCDD6; }
+
+.hero {
+  background-color: #f7f5eb; }
+
+.footer {
+  background-color: #BDCDD6; }
+
 /* Bulma Utilities */
 .button, .input, .textarea, .select select, .file-cta,
 .file-name, .pagination-previous,
@@ -8152,7 +8167,7 @@ th {
     text-align: inherit; }
 
 html {
-  background-color: #faeec6;
+  background-color: #f7f5eb;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
